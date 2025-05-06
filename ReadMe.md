@@ -1,3 +1,9 @@
+<!-- Viewer Counter -->
+<img align="right" src="https://komarev.com/ghpvc/?username=lkag04&style=plastic&color=green&label=Curious+Views">
+<!-- END Viewer Counter -->
+
+
+
 # 💫 About Me:
 **🚩 I’m currently working on:**  <br>  Building my expertise in artificial intelligence and machine learning while pursuing my degree. I am also working on robotics projects as a part of my university club.<br><br>**👥 I’m looking to collaborate on:**  <br>  Robotics projects, AI/ML-based applications, and hackathons that involve innovative problem-solving.<br><br>**🤝 I’m looking for help with:**  <br>  Advanced XR application development, satellite image processing, and gaining deeper insights into artificial intelligence research.<br><br>**🌱 I’m currently learning:**  <br>  Advanced data structures, algorithms, and hands-on implementation of AI/ML concepts in real-world scenarios.<br><br>**💬 Ask me about:**  <br>  My experience with XR technologies, robotics, and leading technical teams.<br><br>**⚡ Fun fact:**  <br>  I have led a robotics club and mentored peers to successfully build cutting-edge prototypes, balancing technical innovation with teamwork!
 
