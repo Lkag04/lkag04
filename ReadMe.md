@@ -5,9 +5,12 @@
 <br> 
 <div id="intro-and-badges" align="center">
 <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&duration=3000&pause=2000&background=EF6DFF00&color=98CCF7&width=550&height=70&lines=Hi!+%F0%9F%91%8B+Welcome+to+my+virtual+office!+%F0%9F%92%BB"></a></p>
-  <a href="https://www.linkedin.com/in/lkag04/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
+
+  <!-- Social Links -->
+  <a href="https://www.linkedin.com/in/lkag04/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="[https://drive.google.com/file/d/your_resume_link_here/view?usp=sharing](https://drive.google.com/file/d/1TrddcFDajHeJJpQUoTPonEZBJOIgIlFh/view?usp=share_link)"><img src="https://img.shields.io/badge/Resume-%230077B5.svg?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume Badge"/></a>
   <a href="https://stackoverflow.com/users/29442268/lakshya-agarwal"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-  <a href="https://codepen.io/https://codepen.io/lkag04"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
+  <a href="https://codepen.io/lkag04"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
  <!--             <a href=""><img src=""/></a>            -->
 </div>
 <!-- END Intro Banner and Badges Section -->
