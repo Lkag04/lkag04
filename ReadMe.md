@@ -8,7 +8,7 @@
 
   <!-- Social Links -->
   <a href="https://www.linkedin.com/in/lkag04/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="[https://drive.google.com/file/d/your_resume_link_here/view?usp=sharing](https://drive.google.com/file/d/1TrddcFDajHeJJpQUoTPonEZBJOIgIlFh/view?usp=share_link)"><img src="https://img.shields.io/badge/Resume-%230077B5.svg?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume Badge"/></a>
+  <a href="[[https://drive.google.com/file/d/your_resume_link_here/view?usp=sharing](https://drive.google.com/file/d/1FsG-RxrQU6WR4QIW7FZB3Xk-RKpBC7mL/view?usp=share_link)](https://drive.google.com/file/d/1TrddcFDajHeJJpQUoTPonEZBJOIgIlFh/view?usp=share_link)"><img src="https://img.shields.io/badge/Resume-%230077B5.svg?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume Badge"/></a>
   <a href="https://stackoverflow.com/users/29442268/lakshya-agarwal"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
   <a href="https://codepen.io/lkag04"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
  <!--             <a href=""><img src=""/></a>            -->
